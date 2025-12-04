@@ -1,5 +1,4 @@
 ## Optimizing Parametric Survival Model Selection: An Analysis Using Constructed Individual Patient Data Extracted from Oncology Trials From 2014 to 2023
-<br>
 
 ### Summary
 
